@@ -7,6 +7,6 @@
 
 - 💬 Preguntame sobre Cualquier cosa que sepa
 
-- ⚡ Mis hobbys Escuhar música y leer
+- ⚡ Mis hobbys escuchar música, leer etc...
 
 - 🗒 Estoy pensando en mi próximo proyecto
