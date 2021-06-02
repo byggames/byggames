@@ -10,3 +10,5 @@
 - ⚡ Mis hobbys escuchar música, leer etc...
 
 - 🗒 Estoy pensando en mi próximo proyecto
+
+- ⌨ Programo desde android
