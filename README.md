@@ -5,10 +5,10 @@
 
 - 🌱 Estoy aprendiendo HTML y CSS para desarrollo front-end y tambien sigo aprendiendo python
 
-- 💬 Preguntame sobre Cualquier cosa que sepa
+- 💬 Preguntame sobre cualquier cosa que sepa
 
 - ⚡ Mis hobbys escuchar música, leer etc...
 
 - 🗒 Estoy pensando en mi próximo proyecto
 
-- ⌨ Programo desde android
+- ⌨ Programo desde Android
