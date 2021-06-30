@@ -11,4 +11,4 @@
 
 - 🗒 Estoy pensando en mi próximo proyecto
 
-- ⌨ Programo desde Android
+- ⌨ Programo desde un PC malisimo, pero carga el codigo :computer:
