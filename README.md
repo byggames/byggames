@@ -3,12 +3,12 @@
 
 - 🔭 Actualmente no estoy trabajando en nada
 
-- 🌱 Estoy aprendiendo JS, leugo pensaré en Python
+- 🌱 Estoy aprendiendo JS.
 
-- 💬 Preguntame sobre cualquier cosa,luego ya te diré si lo sabre.
+- 💬 Preguntame sobre cualquier cosa, luego ya te diré si lo sabre.
 
 - ⚡ Mis hobbys escuchar música, leer, y aprender!
 
-- 🗒 Estoy pensando en mi próximo proyecto
+- 🗒 Estoy pensando en mi próximo proyecto...
 
 - ⌨ Programo desde un Android
