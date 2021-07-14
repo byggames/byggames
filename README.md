@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente no estoy trabajando en nada
 
-- 🌱 Estoy aprendiendo JS.
+- 🌱 Estoy aprendiendo Python
 
 - 💬 Preguntame sobre cualquier cosa, luego ya te diré si lo sabre.
 
