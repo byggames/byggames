@@ -1,7 +1,7 @@
 <h1 align = "center"> Hola 👋, Soy Bygames </h1>
 <h3 align = "center"> Soy un apasionado de la informática </h3>
 
-- 🔭 Actualmente no estoy trabajando en nada
+- 🔭 Actualmente estoy trabajando en un videojuego que se ejecuta en la terminal
 
 - 🌱 Estoy aprendiendo Python
 
@@ -11,4 +11,4 @@
 
 - 🗒 Estoy pensando en mi próximo proyecto...
 
-- ⌨ Programo desde un Android
+- ⌨ Programo desde PC
