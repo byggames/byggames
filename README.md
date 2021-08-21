@@ -9,6 +9,4 @@
 
 - ⚡ Mis hobbys escuchar música, leer, y aprender!
 
-- 🗒 Estoy pensando en mi próximo proyecto...
-
-- ⌨ Programo desde PC
+- 🗒 Estoy pensando en el proyecto que estoy desarrollando
