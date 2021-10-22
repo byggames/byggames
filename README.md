@@ -7,3 +7,10 @@
 
 - ⚡ Mis hobbys escuchar música, leer, y aprender!
 
+```py
+    class Human:
+    def init(self, nombre, lenguajes, frase):  
+    self.nombre = By
+    self.lenguajes = Python
+    self.frase = La acción más pequeña es la intención más grande.
+``` 
