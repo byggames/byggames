@@ -1,9 +1,9 @@
 <h1 align = "center"> Hola 👋, Soy Bygames </h1>
 <h3 align = "center"> Soy un apasionado de la informática </h3>
 
-- 🔭 Actualmente estoy trabajando en un videojuego CLI
+- 🔭 Actualmente estoy trabajando en mis estudios de la programación 
 
-- 🌱 Estoy aprendiendo Python y mejorando 
+- 🌱 Estoy aprendiendo, formándome, etc... 
 
 - ⚡ Mis hobbys escuchar música, leer, y aprender!
 
@@ -11,6 +11,6 @@
     class Human:
     def init(self, nombre, lenguajes, frase):  
     self.nombre = By
-    self.lenguajes = Python
+    self.lenguajes = null
     self.frase = La acción más pequeña es la intención más grande.
 ``` 
