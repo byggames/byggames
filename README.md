@@ -12,5 +12,5 @@
     def init(self, nombre, lenguajes, frase):  
     self.nombre = By
     self.lenguajes = null
-    self.frase = La acción más pequeña es la intención más grande.
+    self.frase = Las_Peores_Batallas_Siempre_Son_Contra_Nosotros_Mismos
 ``` 
